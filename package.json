@@ -1,0 +1,23 @@
+{
+  "name": "apynif-event-listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hritikraheja/apynif-event-listener.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hritikraheja/apynif-event-listener/issues"
+  },
+  "homepage": "https://github.com/hritikraheja/apynif-event-listener#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
