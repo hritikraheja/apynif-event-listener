@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/hritikraheja/apynif-event-listener#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "dotenv": "^16.0.2",
+    "ethers": "^5.7.1",
+    "express": "^4.18.1",
+    "web3": "^1.8.0"
   }
 }
